@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&text=Sunukkk's%20Github&animation=fadeIn&fontColor=ffffff&fontAlign=60&fontAlignY=42&desc=Welcome!&descAlignY=20&descAlign=88)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&text=Sunukkk's%20Github&animation=fadeIn&fontColor=ffffff&fontAlign=60&fontAlignY=70&desc=Welcome!&descAlignY=50&descAlign=88)
 
 <div align="center">
   
