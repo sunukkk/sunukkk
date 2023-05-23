@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,2,5,30&height=200&text=Sunukkk's%20Github&animation=fadeIn&fontColor=ffffff&rotate=13&fontAlign=60&fontAlignY=42&desc=Welcome!&descAlignY=20&descAlign=88)
 
+<a href="/" target="_blank"><img src="https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript&logoColor=#F7DF1E"/></a> 
+<a href="/" target="_blank"><img src="https://img.shields.io/badge/html5-000?style=for-the-badge&logo=html5&logoColor=#E34F26"/></a> 
+<a href="/" target="_blank"><img src="https://img.shields.io/badge/css3-000?style=for-the-badge&logo=css3&logoColor=#1572B6"/></a> 
 
 <!--
 **sunukkk/sunukkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
