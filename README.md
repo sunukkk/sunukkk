@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=slice)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,2,5,30&height=200&text=Sunukkk's%20Github&animation=fadeIn&fontColor=ffffff&rotate=13&fontAlign=60&fontAlignY=42&desc=Welcome!&descAlignY=20&descAlign=88)
+
 
 <!--
 **sunukkk/sunukkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
