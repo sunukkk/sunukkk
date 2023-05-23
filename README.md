@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,2,5,30&height=200&text=Sunukkk's%20Github&animation=fadeIn&fontColor=ffffff&rotate=13&fontAlign=60&fontAlignY=42&desc=Welcome!&descAlignY=20&descAlign=88)
 
 ## MY SKILLS ##
+
 ### BASIC SKILLS ###
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/Javascript-EEE?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a> 
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/html5-EEE?style=for-the-badge&logo=html5&logoColor=E34F26"/></a> 
