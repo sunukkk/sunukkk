@@ -21,7 +21,7 @@
   
 ## My Portfolio ##
 
-  <a href="/" target="_blank"><img src="https://github.com/sunukkk/web_portfolio/blob/master/public/portfolioimage.png" width="640"/></a> 
+  <a href="https://sunukkk.github.io/web_portfolio/" target="_blank"><img src="https://github.com/sunukkk/web_portfolio/blob/master/public/portfolioimage.png" width="640"/></a> 
  
 </div>
   
