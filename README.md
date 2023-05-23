@@ -10,7 +10,7 @@
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/sass-EEE?style=for-the-badge&logo=sass&logoColor=CC6699"/></a> <br />
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/react-EEE?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/redux-EEE?style=for-the-badge&logo=sass&logoColor=764ABC"/></a> 
-<a href="/" target="_blank"><img src="https://img.shields.io/badge/nextdotjs-EEE?style=for-the-badge&logo=sass&logoColor=000000"/></a> <br />
+<a href="/" target="_blank"><img src="https://img.shields.io/badge/nextdotjs-EEE?style=for-the-badge&logo=nextdotjs&logoColor=000000"/></a> <br />
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/photoshop-EEE?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF"/></a>
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/illustrator-EEE?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00"/></a>
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/figma-EEE?style=for-the-badge&logo=figma&logoColor=F24E1E"/></a> 
