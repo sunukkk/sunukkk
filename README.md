@@ -20,14 +20,15 @@
 <div align="center">
   
 ## My Portfolio ##
-  
+<br />  
   <div>
     <a href="https://sunukkk.github.io/web_portfolio/" target="_blank"><img src="https://github.com/sunukkk/web_portfolio/blob/master/public/portfolioimage.png" width="640" /></a> 
   </div>
  
 </div>
   
-## used Languages ##
+## ##
+
 <div align = "center">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunukkk&layout=compact)
