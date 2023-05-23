@@ -21,6 +21,7 @@
   
 ## My Portfolio ##
 
+  <a href="/" target="_blank"><img src="https://github.com/sunukkk/web_portfolio/blob/master/public/portfolioimage.png" width="640"/></a> 
  
 </div>
   
